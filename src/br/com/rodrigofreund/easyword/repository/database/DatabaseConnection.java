@@ -15,7 +15,7 @@ import br.com.rodrigofreund.easyword.model.exception.BusinessException;
 
 /** It represent a database access point to application
  * 
- * @author rodri
+ * @author Rodrigo Freund de Moraes
  *
  */
 public final class DatabaseConnection {
